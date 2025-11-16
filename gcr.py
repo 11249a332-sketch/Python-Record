@@ -1,0 +1,5 @@
+f=open("pavani.txt","w")
+f.write("i am sai pavani")
+f.write("\n she is lazy")
+f.close()
+print("end")
